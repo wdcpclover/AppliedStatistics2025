@@ -1,0 +1,13 @@
+# Ignore data files (e.g., .csv, .xlsx, .xls)
+*.csv
+*.xlsx
+*.xls
+*.json
+*.txt
+*.log
+
+# Ignore PDF files
+*.pdf
+
+# Ignore other unwanted files
+.DS_Store
